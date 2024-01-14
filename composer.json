@@ -1,0 +1,6 @@
+{
+    "require": {
+        "jamiecressey/php-mysql-session-handler": "dev-master",
+        "jayc89/php-mysql-pdo-database-class": "dev-master"
+    }
+}
